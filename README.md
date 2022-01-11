@@ -19,7 +19,7 @@ My goal is to develop testing knowledge and technical skills. I'd like to share 
 ## Hard skills
 **Basic knowledge & understanding of:**
    - HTML
-   - CSS (selectors)
+   - CSS
    - HTTP
    - Linux 
   

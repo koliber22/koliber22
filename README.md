@@ -56,6 +56,7 @@ Hopefully, soon to gain software testing experience 🤞
 
 - https://www.w3schools.com/
 - https://www.udemy.com/
+- https://www.codecademy.com/
 
 ## Webinars
 - Egzaminy ISTQB - pytania i odpowiedzi (Radek Smilgin/testerzy.pl)

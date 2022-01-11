@@ -11,10 +11,13 @@ My goal is to develop testing knowledge and technical skills. I'd like to share 
 - Creative, assertive;
 - Business empathy;
 - Following the trends and communicating with people by different teams and channels;
-- Highly productive, self-efficient and flexible (Agile mindset).
+- Highly productive, self-efficient and flexible (Agile mindset);
+- Communication skills in a multicultural environment;
+- Able to work in team and independently;
+- Motivation to get new knowledge.
 
 ## Hard skills
-**Basic knowledge of:**
+**Basic knowledge & understanding of:**
    - HTML
    - CSS (selectors)
    - HTTP
@@ -46,10 +49,13 @@ Hopefully, soon to gain software testing experience 🤞
 - Kurs tester manualny (Facebook)
 - 3QA (Facebook)
 
-## Blogs I read
+## Blogs I read / Pages I follow:
 - https://laborqa.pl/
 - https://remigiuszbednarczyk.pl/
 - https://www.wyszkolewas.com.pl/
+
+- https://www.w3schools.com/
+- https://www.udemy.com/
 
 ## Webinars
 - Egzaminy ISTQB - pytania i odpowiedzi (Radek Smilgin/testerzy.pl)
